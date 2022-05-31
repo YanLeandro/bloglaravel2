@@ -1,4 +1,4 @@
-Prueba práctica avaliable
+Prueba práctica avaliable <br>
 Objetivo: Creación de un pequeño model de plataforma de servicios CMS.
 Emprego de framework - Laravel/TailwindCSS - Sitio web perfectamente responsivo.
 
